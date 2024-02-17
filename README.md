@@ -1,5 +1,3 @@
-![image](https://github.com/Yasmin63/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/assets/146631940/dbc8bbf4-ed0e-4401-a5d2-ad21b72a197b)# Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
-
 ## Background
 "A company can grow rapidly when it knows its customer personality behavior, so that it can provide better services and benefits to customers who have the potential to become loyal customers. By processing historical marketing campaign data to improve performance and target the right customers so that they can transact on the company's platform, from these data insights, our focus is to create a cluster prediction model to make it easier for companies to make decisions."
 
